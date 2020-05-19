@@ -4,7 +4,6 @@ data
 # Experiment files
 exp
 scripts/dev
-notebooks/
 output/
 
 # Image files
